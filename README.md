@@ -166,5 +166,5 @@ The PyTorch baseline trains fast but plateaus earlier without BatchNorm / augmen
 □ Export to ONNX / TorchScript for deployment
 
 ### Author
-Kawtar HOUSNI  — Student / Data Scientist
+Kawtar HOUSNI  — Student / Data Scientist, 
 Abdellah TIAIR - Student / Computer Science and Electronics for Embedded Systems
